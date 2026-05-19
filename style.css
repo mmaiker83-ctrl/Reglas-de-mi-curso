@@ -1,6 +1,8 @@
 body {
     background-image: url(https://us.123rf.com/450wm/golfmerrymaker/golfmerrymaker2308/golfmerrymaker230800379/211179388-drizzle-rainy-day-in-autumn-background-and-wallpaper-generative-ai.jpg);
 background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 li {
