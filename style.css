@@ -1,7 +1,9 @@
-body {
+
+
+}body {
     background-image: url("reglas-fondo.png");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: 70%;
     background-position: center center;
     background-attachment: fixed;
     min-height: 100vh;
