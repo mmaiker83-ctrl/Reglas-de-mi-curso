@@ -1,10 +1,12 @@
 body {
     background-image: url("reglas-fondo.png");
     background-repeat: no-repeat;
-    background-size: 70% auto;
-    background-position: center;
+    background-size: contain;
+    background-position: center center;
+    background-attachment: fixed;
+    min-height: 100vh;
+    margin: 0;
 }
-
 li {
     font-size: 30px;
     text-align: center;
@@ -19,9 +21,9 @@ h1 {
 }
 
 div {
-border: 10px;
-border-style: groove;
-background-color: lightslategrey;
-height: auto;
-width: 700px;
+    border: 10px groove;
+    background-color: rgba(119, 136, 153, 0.85);
+    width: 700px;
+    margin: auto;
+    padding: 20px;
 }
