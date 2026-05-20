@@ -1,8 +1,8 @@
 body {
     background-image: url("reglas-fondo.png");
     background-repeat: no-repeat;
-    background-size: 70%;
-    background-position: center center;
+    background-size: 70% auto;
+    background-position: center;
 }
 li {
     font-size: 30px;
